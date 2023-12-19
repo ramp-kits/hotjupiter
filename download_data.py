@@ -26,7 +26,7 @@ RAMP_FOLDER_CONFIGURATION = {
         data_checksum=345122949,
     ),
     "private": dict(
-        code="vw8sh", archive_name="private.tar.gz", data_checksum=3236382485
+        code="vw8sh", archive_name="private.tar.gz", data_checksum=1804658687
     ),
 }
 
